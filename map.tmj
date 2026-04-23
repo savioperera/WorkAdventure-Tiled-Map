@@ -245,7 +245,7 @@
         {
          "columns":13,
          "firstgid":1,
-         "image":"..\/..\/map-starter-kit-3.3.18\/map-starter-kit-3.3.18\/tilesets\/WA_Seats.png",
+         "image":"..\/..\/tilesets\/WA_Seats.png",
          "imageheight":448,
          "imagewidth":416,
          "margin":0,
@@ -258,7 +258,7 @@
         {
          "columns":25,
          "firstgid":183,
-         "image":"..\/..\/map-starter-kit-3.3.18\/map-starter-kit-3.3.18\/tilesets\/WA_Room_Builder.png",
+         "image":"..\/..\/WA_Room_Builder.png",
          "imageheight":1280,
          "imagewidth":800,
          "margin":0,
@@ -271,7 +271,7 @@
         {
          "columns":13,
          "firstgid":1183,
-         "image":"..\/..\/map-starter-kit-3.3.18\/map-starter-kit-3.3.18\/tilesets\/WA_Seats.png",
+         "image":"..\/..\/tilesets\/WA_Seats.png",
          "imageheight":448,
          "imagewidth":416,
          "margin":0,
@@ -284,7 +284,7 @@
         {
          "columns":25,
          "firstgid":1365,
-         "image":"..\/..\/map-starter-kit-3.3.18\/map-starter-kit-3.3.18\/tilesets\/WA_Room_Builder.png",
+         "image":"..\/..\/tilesets\/WA_Room_Builder.png",
          "imageheight":1280,
          "imagewidth":800,
          "margin":0,
@@ -297,7 +297,7 @@
         {
          "columns":13,
          "firstgid":2365,
-         "image":"..\/..\/map-starter-kit-3.3.18\/map-starter-kit-3.3.18\/tilesets\/WA_Seats.png",
+         "image":"..\/..\/tilesets\/WA_Seats.png",
          "imageheight":448,
          "imagewidth":416,
          "margin":0,
