@@ -296,7 +296,7 @@
         {
          "columns":13,
          "firstgid":1,
-         "image":"..\/..\/map-starter-kit-3.3.18\/map-starter-kit-3.3.18\/tilesets\/WA_User_Interface.png",
+         "image":"tilesets\/WA_User_Interface.png",
          "imageheight":672,
          "imagewidth":416,
          "margin":0,
