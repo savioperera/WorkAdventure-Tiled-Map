@@ -22514,6 +22514,16 @@
       "y": 0
     },
     {
+      "image": "Sketch.jpg",
+      "name": "Sketch",
+      "opacity": 0.22,
+      "type": "imagelayer",
+      "visible": false,
+      "id": 16,
+      "x": 0,
+      "y": 0
+    },
+    {
       "data": [
         0,
         0,
@@ -45023,16 +45033,6 @@
       "type": "tilelayer",
       "visible": true,
       "width": 150,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "image": "Sketch.jpg",
-      "name": "Sketch",
-      "opacity": 0.22,
-      "type": "imagelayer",
-      "visible": false,
-      "id": 16,
       "x": 0,
       "y": 0
     },
@@ -90057,7 +90057,7 @@
       "name": "Wall Collid",
       "opacity": 1,
       "type": "tilelayer",
-      "visible": false,
+      "visible": true,
       "width": 150,
       "x": 0,
       "y": 0
@@ -112671,7 +112671,7 @@
     {
       "columns": 7,
       "firstgid": 1,
-      "image": "map-chunk-1-c7cc49eb.png",
+      "image": "map-chunk-1-978fc2ff.png",
       "imageheight": 224,
       "imagewidth": 224,
       "margin": 0,
