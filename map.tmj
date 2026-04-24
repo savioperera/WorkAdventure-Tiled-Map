@@ -112580,7 +112580,7 @@
       "objects": [],
       "opacity": 1,
       "type": "objectgroup",
-      "visible": true,
+      "visible": false,
       "draworder": "topdown",
       "id": 2,
       "offsetx": 904,
@@ -135448,7 +135448,7 @@
     {
       "columns": 7,
       "firstgid": 1,
-      "image": "map-chunk-1-6a89ff97.png",
+      "image": "map-chunk-1-b199d87b.png",
       "imageheight": 224,
       "imagewidth": 224,
       "margin": 0,
@@ -135458,7 +135458,28 @@
       "tilecount": 39,
       "tileheight": 32,
       "tilewidth": 32,
-      "tiles": []
+      "tiles": [
+        {
+          "id": 37,
+          "properties": [
+            {
+              "name": "collides ",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 37,
+          "properties": [
+            {
+              "name": "collides ",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        }
+      ]
     }
   ],
   "type": "map",
