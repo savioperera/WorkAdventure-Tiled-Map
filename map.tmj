@@ -1487,40 +1487,35 @@
                  "id":49,
                  "name":"",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/i.ibb.co\/wNbm9NR6\/Poster-test.webp"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"\"Press SPACE to view poster\""
+                        }, 
+                        {
+                         "name":"openWebsiteWidth",
+                         "type":"int",
+                         "value":50
+                        }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":296,
                  "x":1722,
                  "y":3417.5
                 }],
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/i.ibb.co\/wNbm9NR6\/Poster-test.webp"
-                }, 
-                {
-                 "name":"openWebsiteAllowApi",
-                 "type":"bool",
-                 "value":true
-                }, 
-                {
-                 "name":"openWebsiteTrigger ",
-                 "type":"string",
-                 "value":"onaction"
-                }, 
-                {
-                 "name":"openWebsiteWidth",
-                 "type":"int",
-                 "value":50
-                }, 
-                {
-                 "name":"policy",
-                 "type":"bool",
-                 "value":true
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
