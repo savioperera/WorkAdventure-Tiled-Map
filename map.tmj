@@ -202650,8 +202650,30 @@
           "x": 1722,
           "y": 3417.5,
           "height": 159,
+          "properties": [
+            {
+              "name": "openWebsite",
+              "type": "string",
+              "value": "https://i.ibb.co/wNbm9NR6/Poster-test.webp"
+            },
+            {
+              "name": "openWebsiteTrigger",
+              "type": "string",
+              "value": "onaction"
+            },
+            {
+              "name": "openWebsiteTriggerMessage",
+              "type": "string",
+              "value": "\"Press SPACE to view poster\""
+            },
+            {
+              "name": "openWebsiteWidth",
+              "type": "int",
+              "value": 50
+            }
+          ],
           "rotation": 0,
-          "type": "",
+          "type": "area",
           "width": 296
         }
       ],
@@ -202660,33 +202682,6 @@
       "visible": true,
       "draworder": "topdown",
       "id": 29,
-      "properties": [
-        {
-          "name": "openWebsite",
-          "type": "string",
-          "value": "https://i.ibb.co/wNbm9NR6/Poster-test.webp"
-        },
-        {
-          "name": "openWebsiteAllowApi",
-          "type": "bool",
-          "value": true
-        },
-        {
-          "name": "openWebsiteTrigger ",
-          "type": "string",
-          "value": "onaction"
-        },
-        {
-          "name": "openWebsiteWidth",
-          "type": "int",
-          "value": 50
-        },
-        {
-          "name": "policy",
-          "type": "bool",
-          "value": true
-        }
-      ],
       "x": 0,
       "y": 0
     },
@@ -248063,7 +248058,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "map-chunk-1-b91848a3.png",
+      "image": "map-chunk-1-e3d639f5.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -248099,7 +248094,7 @@
     {
       "columns": 13,
       "firstgid": 257,
-      "image": "map-chunk-2-b91848a3.png",
+      "image": "map-chunk-2-e3d639f5.png",
       "imageheight": 416,
       "imagewidth": 416,
       "margin": 0,
