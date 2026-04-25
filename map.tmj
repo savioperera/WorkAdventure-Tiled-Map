@@ -202664,7 +202664,7 @@
         {
           "name": "openWebsite",
           "type": "string",
-          "value": ""
+          "value": "https://i.ibb.co/wNbm9NR6/Poster-test.webp"
         },
         {
           "name": "openWebsiteAllowApi",
@@ -248063,7 +248063,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "map-chunk-1-666dbfd9.png",
+      "image": "map-chunk-1-b91848a3.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -248099,7 +248099,7 @@
     {
       "columns": 13,
       "firstgid": 257,
-      "image": "map-chunk-2-666dbfd9.png",
+      "image": "map-chunk-2-b91848a3.png",
       "imageheight": 416,
       "imagewidth": 416,
       "margin": 0,
