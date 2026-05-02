@@ -2229,6 +2229,65 @@
         }, 
         {
          "draworder":"topdown",
+         "id":38,
+         "name":"Zoom Main Hall",
+         "objects":[
+                {
+                 "height":0,
+                 "id":56,
+                 "name":"",
+                 "opacity":1,
+                 "polygon":[
+                        {
+                         "x":-12.121212121212,
+                         "y":-6.06060606060601
+                        }, 
+                        {
+                         "x":2145.45454545455,
+                         "y":-9.09090909090901
+                        }, 
+                        {
+                         "x":2151.51515151515,
+                         "y":1081.81818181818
+                        }, 
+                        {
+                         "x":2366.66666666667,
+                         "y":1084.84848484848
+                        }, 
+                        {
+                         "x":2375.75757575758,
+                         "y":2536.36363636364
+                        }, 
+                        {
+                         "x":-36.3636363636365,
+                         "y":2539.39393939394
+                        }],
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"zoomMargin",
+                         "type":"float",
+                         "value":0.5
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":0,
+                 "x":1496.9696969697,
+                 "y":2066.66666666667
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
          "id":2,
          "name":"floorLayer",
          "objects":[],
@@ -3216,8 +3275,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":38,
- "nextobjectid":52,
+ "nextlayerid":39,
+ "nextobjectid":57,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.12.1",
