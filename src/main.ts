@@ -19,7 +19,14 @@ WA.onInit().then(() => {
 
     WA.room.area.onLeave('clock').subscribe(closePopup)
 
-	WA.camera.setZoom(1.0);
+	WA.camera.set({
+    x: 400,          // X coordinate in pixels
+    y: 300,          // Y coordinate in pixels
+    width: 800,      // Smaller width = Zoom In
+    height: 600,     // Smaller height = Zoom In
+    lock: true,      // Set to true to prevent player from scrolling away
+    smooth: true     // Enables a smooth transition
+});
 	
     // The line below bootstraps the Scripting API Extra library that adds a number of advanced properties/features to WorkAdventure
     bootstrapExtra().then(() => {
