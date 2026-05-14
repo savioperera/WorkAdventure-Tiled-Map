@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "baseUrl": ".",
+    //"baseUrl": ".",
     "outDir": "./dist/",
     "target": "ESNext",
     "useDefineForClassFields": true,
@@ -10,7 +10,7 @@
       "DOM"
     ],
     "allowJs": true,
-    "moduleResolution": "Node",
+    "moduleResolution": "bundler",
     "strict": true,
     "noImplicitAny": true,
     "strictNullChecks": true,
@@ -21,6 +21,7 @@
     "alwaysStrict": true,
     "noFallthroughCasesInSwitch": true,
     "sourceMap": true,
+	"allowImportingTsExtensions": true,
     "resolveJsonModule": true,
     "isolatedModules": true,
     "esModuleInterop": true,
